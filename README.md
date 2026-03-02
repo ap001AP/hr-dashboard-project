@@ -98,6 +98,7 @@ The dataset was synthetically generated using Python with the following specific
 ├── HumanResources.csv              # Generated HR dataset (8,950 records)
 ├── generate_hr_data.py             # Python script for data generation
 ├── HR_Dashboard.twbx               # Tableau packaged workbook
+├── hr-dashboard-mockups.png        # Containerized view of the summary and details dashboard
 └── docs/
     ├── hr_dashboard_overview.png   # Summary view screenshot
     └── hr_dashboard_details.png    # Employee records view screenshot
